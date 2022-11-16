@@ -35,7 +35,8 @@ module.exports = {
           {
             text: '项目问题解决方法记录',
             items: [
-              { text: '解决方法记录', link: '/pages/f46c32/' },
+              { text: 'vue+elementui', link: '/pages/9d8d7d/' },
+              { text: 'uniapp移动端', link: '/pages/a7ae6a/' },
             ],
           },
           
